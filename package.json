@@ -19,7 +19,8 @@
     "lint": "npm run lint:css && npm run lint:js",
     "lint:css": "echo \"WARN: npm run lint:css skipped\"",
     "lint:js": "eslint src",
-    "test": "NODE_ENV=test mocha ./src/*.spec.js"
+    "test": "NODE_ENV=test mocha ./src/*.spec.js",
+    "test:coverage": "npm run test"
   },
   "publishConfig": {
     "access": "public"
