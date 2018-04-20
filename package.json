@@ -41,10 +41,11 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-react": "^7.1.0",
     "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^5.1.1",
     "sinon": "^4.0.2"
   },
   "dependencies": {
-    "bignumber.js": "3.0.1",
+    "bignumber.js": "4.1.0",
     "ethereumjs-tx": "^1.2.5",
     "u2f-api": "0.0.9",
     "u2f-api-polyfill": "0.4.3"
