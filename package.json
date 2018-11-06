@@ -51,6 +51,6 @@
     "bignumber.js": "8.0.1",
     "ethereumjs-tx": "^1.2.5",
     "u2f-api": "0.0.9",
-    "u2f-api-polyfill": "0.4.3"
+    "u2f-api-polyfill": "0.4.4"
   }
 }
