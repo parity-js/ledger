@@ -2753,11 +2753,7 @@ secp256k1@^3.0.1:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.5.0.tgz#dc4bbc7a6ca9d916dee5d43516f0092b58f7b8ab"
 
-semver@^5.4.1:
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
-
-semver@^5.5.0, semver@^5.5.1:
+semver@^5.4.1, semver@^5.5.0, semver@^5.5.1:
   version "5.6.0"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
 
@@ -3041,9 +3037,9 @@ u2f-api-polyfill@0.4.4:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/u2f-api-polyfill/-/u2f-api-polyfill-0.4.4.tgz#5ee8f6483386d684ca8deafcce979027f34272db"
 
-u2f-api@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/u2f-api/-/u2f-api-1.0.7.tgz#b54354076c470ca250419817e6c9bc364d8e5993"
+u2f-api@1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/u2f-api/-/u2f-api-1.0.8.tgz#14b04b6ca596a53c32d89068670bb2ab40d2b153"
 
 uid-number@^0.0.6:
   version "0.0.6"
