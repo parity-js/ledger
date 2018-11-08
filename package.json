@@ -45,7 +45,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "makeshift": "^1.1.0",
     "mocha": "^5.1.1",
-    "sinon": "^4.0.2"
+    "sinon": "^7.1.1"
   },
   "dependencies": {
     "bignumber.js": "8.0.1",
