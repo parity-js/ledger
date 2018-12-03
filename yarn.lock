@@ -3065,9 +3065,9 @@ u2f-api-polyfill@0.4.4:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/u2f-api-polyfill/-/u2f-api-polyfill-0.4.4.tgz#5ee8f6483386d684ca8deafcce979027f34272db"
 
-u2f-api@1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/u2f-api/-/u2f-api-1.0.8.tgz#14b04b6ca596a53c32d89068670bb2ab40d2b153"
+u2f-api@1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/u2f-api/-/u2f-api-1.0.9.tgz#cf0b3e494d73bd01a67d7a64fde73bf7e7d7cfed"
 
 uid-number@^0.0.6:
   version "0.0.6"
