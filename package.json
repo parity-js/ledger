@@ -50,7 +50,7 @@
   "dependencies": {
     "bignumber.js": "8.0.2",
     "ethereumjs-tx": "^1.2.5",
-    "u2f-api": "1.0.9",
+    "u2f-api": "1.0.10",
     "u2f-api-polyfill": "0.4.4"
   }
 }
