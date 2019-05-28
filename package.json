@@ -48,7 +48,7 @@
     "sinon": "^7.1.1"
   },
   "dependencies": {
-    "bignumber.js": "8.1.1",
+    "bignumber.js": "9.0.0",
     "ethereumjs-tx": "^1.2.5",
     "u2f-api": "1.0.10",
     "u2f-api-polyfill": "0.4.4"
